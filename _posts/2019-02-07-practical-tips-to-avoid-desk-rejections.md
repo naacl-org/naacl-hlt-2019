@@ -14,8 +14,8 @@ categories:
 Our process for identifying desk rejects has been very similar to what other PCs have done in the past. First, the area chairs check their batch of assigned papers and report any issues to us. As the reviewing begins, reviewers may also identify issues that were not caught by ACs, which they flag up to ACs or directly to PCs. We then review each of these issues and make a final decision, to ensure that papers are handled consistently. This means each paper is reviewed for non-content issues by at least three people.
  
 The major categories for desk rejects are:
-- Violations to the dual submission policy specified in the [call for papers](/calls/papers)
-- Violations to the anonymity policy as specified in the [call for papers](/calls/papers)
+- Violations to the dual submission policy specified in the [call for papers]({{ site.baseurl }}/calls/papers)
+- Violations to the anonymity policy as specified in the [call for papers]({{ site.baseurl }}/calls/papers)
 - "Format cheating" submissions not following the clearly stated format and style guidelines either in LaTeX or Word (thanks to Emily and Leon for [introducing the concept](https://coling2018.org/author-responsibilities-and-the-coling-2018-desk-reject-policy/)).
 
 As of February 7th, out of 2378 submissions, there were 44 rejections for format issues, 24 for anonymity violations, and 11 for dual submissions. This means that a total of 3% of the submissions were desk-rejected.

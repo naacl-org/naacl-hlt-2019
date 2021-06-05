@@ -147,7 +147,7 @@ sidebar:
 
 NAACL-HLT 2019 is grateful to all its sponsors, who are listed below.  We simply couldn't run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-This year's sponsor list includes two new categories: *Diversity & Inclusion Champion* and *Diversity & Inclusion Ally*.  These sponsors donated funds specifically to facilitate participation in NAACL-HLT 2019 by all researchers in our field.  This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities](/sponsors/benefits) are available for the ACL and EMNLP conferences as well.
+This year's sponsor list includes two new categories: *Diversity & Inclusion Champion* and *Diversity & Inclusion Ally*.  These sponsors donated funds specifically to facilitate participation in NAACL-HLT 2019 by all researchers in our field.  This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities]({{ site.baseurl }}/sponsors/benefits) are available for the ACL and EMNLP conferences as well.
 
 In addition, Grammarly donated grammar-checking services to our submitting authors. We thank them for helping researchers who are not native English speakers to submit to NAACL-HLT 2019 on an equal footing. Microsoft donated captioning services, broadcasting live multilingual caption streams during the conference talks. We thank them for helping our audience members follow the spoken English-language presentations.
 

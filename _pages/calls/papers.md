@@ -50,7 +50,7 @@ While NAACL 2019 will have a theme (described below), we anticipate a comprehens
 
 At NAACL-HLT 2019, while we anticipate a broad technical program, we are especially interested in papers that address the tension between data privacy and model bias in NLP.  There is a growing awareness of the inherent biases in opportunistically collected data sets, and yet there is a risk of skewing your models or losing information in attempting to explicitly introduce balance. The main challenge in this is how to ensure diversity of the underlying feature space without violating individual privacy, e.g. balancing gender requires defining and tracking gender.  There are a number of active workshops in related areas (Ethics in NLP, and the Workshop on NLP for Internet Freedom being two) and we want to bring some of the same topics to the forefront in the main conference.   Potential topics of interest include: using NLP for surveillance and profiling, balancing the need for broadly representative data sets with protections for individuals, understanding and addressing model bias, and where bias correction becomes censorship. We anticipate that this theme will inform the plenary sessions, and a Best Thematic Paper award will be given in addition to traditional Best Paper Awards.
 
-As in recent years, some of the presentations at the conference will be of papers accepted by the [Transactions of the ACL](http://www.transacl.org). In addition, please consult the separate CFP for NAACL-HLT 2019 [industry track submissions](/calls/industry). Separate CFPs will also be forthcoming for submissions for system demonstrations and for student research workshop papers. 
+As in recent years, some of the presentations at the conference will be of papers accepted by the [Transactions of the ACL](http://www.transacl.org). In addition, please consult the separate CFP for NAACL-HLT 2019 [industry track submissions]({{ site.baseurl }}/calls/industry). Separate CFPs will also be forthcoming for submissions for system demonstrations and for student research workshop papers. 
 
 ## Submission Types and Requirements 
 
@@ -132,8 +132,8 @@ Papers should not refer, for further detail, to documents, code or data resource
 ### Follow style and format guidelines
 Submissions should follow the NAACL-HLT 2019 style guidelines. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2019 style templates:
 
-- [LaTeX](/downloads/naaclhlt2019-latex.zip)
-- [Microsoft Word](/downloads/naaclhlt2019-word.zip)
+- [LaTeX]({{ site.baseurl }}/downloads/naaclhlt2019-latex.zip)
+- [Microsoft Word]({{ site.baseurl }}/downloads/naaclhlt2019-word.zip)
 - [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)
 
 All submissions must be in PDF format.

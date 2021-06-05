@@ -23,4 +23,4 @@ Alternatively, you could follow along in the [published paper](https://aclweb.or
 
 We are very grateful to [Microsoft Translator](https://translator.microsoft.com) and Will Lewis for donating this service.
 
-![Microsoft Translator Logo](/assets/images/logos/microsoft-translator-logo-small.png){: .align-center}
+![Microsoft Translator Logo]({{ site.baseurl }}/assets/images/logos/microsoft-translator-logo-small.png){: .align-center}

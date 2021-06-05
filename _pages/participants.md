@@ -95,7 +95,7 @@ If you experience any problems, please call Encore at 612-596-4673 for technical
 
 ## Live Captioning
 
-For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better. Click [here](/captions) for more details.
+For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better. Click [here]({{ site.baseurl }}/captions) for more details.
 
 ## Conference App
 
@@ -107,9 +107,9 @@ Although the current version of the app is fairly stable, it will continue to be
 
 ## Remote Presentation
 
-This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
+This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post]({{ site.baseurl }}/blog/remote-presentations/) authored by the remote presentation chairs.
 
-To apply for a remote presentation slot at NAACL-2019, please fill out [this form](/downloads/telepresence_form.docx) and e-mail it to [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com). Decisions will be made on a case-by-case basis.
+To apply for a remote presentation slot at NAACL-2019, please fill out [this form]({{ site.baseurl }}/downloads/telepresence_form.docx) and e-mail it to [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com). Decisions will be made on a case-by-case basis.
 
 ## Transportation
 
@@ -142,9 +142,9 @@ Built around several lakes and the Mississippi River, Minneapolis's urban citysc
 
 A variety of maps of the areas around the conference venue as well as outer Minneapolis areas can be found [here](https://www.minneapolis.org/map-transportation/maps/).
  
-[Here](/downloads/naacl-2019-map.pdf) is map of the the area around the conference (Hyatt Regency and the Doubletree Inn and Suites, student housing).
+[Here]({{ site.baseurl }}/downloads/naacl-2019-map.pdf) is map of the the area around the conference (Hyatt Regency and the Doubletree Inn and Suites, student housing).
  
-And, for those who like to shop or are just curious, [this map](/downloads/nicollet-mall-map.pdf) shows the famous Nicollet Mall.
+And, for those who like to shop or are just curious, [this map]({{ site.baseurl }}/downloads/nicollet-mall-map.pdf) shows the famous Nicollet Mall.
 
 ## Accommodation
 

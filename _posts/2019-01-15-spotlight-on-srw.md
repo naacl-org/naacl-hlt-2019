@@ -10,7 +10,7 @@ categories:
     blog
 ---
 
-![Wordcloud of all SRW paper titles since 2000](/assets/images/srw-blog/wordcloud_all.png)
+![Wordcloud of all SRW paper titles since 2000]({{ site.baseurl }}/assets/images/srw-blog/wordcloud_all.png)
 
 One of the most popular sessions of *ACL conferences is the Student Research Workshop (SRW). [ACL](https://aclweb.org/adminwiki/index.php?title=***_student_session_policies) describes the aim of this session as allowing the students to take their first steps towards becoming a computational linguist. The larger CL community treats this session as a welcoming hub for the next generation of computational linguists.
 
@@ -79,7 +79,7 @@ your advisor too much); after that, shoot for *ACL and EMNLP!
 
 The NLP community has grown by leaps and bounds and participation in the student research workshop is also growing. The following plot shows the number of papers accepted at the SRW Since 2000.
 
-![Accepted papers over time](/assets/images/srw-blog/plot_year_papers.png)
+![Accepted papers over time]({{ site.baseurl }}/assets/images/srw-blog/plot_year_papers.png)
 
 The list of topics of the papers accepted in the SRW is also interesting. According to Prof. Yoshinaga:
 
@@ -87,12 +87,12 @@ The list of topics of the papers accepted in the SRW is also interesting. Accord
 
 For purposes of illustration, here are some wordclouds made of the paper titles from the SRW in various years.
 
-![](/assets/images/srw-blog/2004_wc.png)
-![](/assets/images/srw-blog/2005_wc.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/2004_wc.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/2005_wc.png)
 
-![](/assets/images/srw-blog/2016_wc.png)
-![](/assets/images/srw-blog/2017_wc.png)
-![](/assets/images/srw-blog/2018_wc.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/2016_wc.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/2017_wc.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/2018_wc.png)
 
 As with everything, there are also issues and problems. For example, Dr. Salameh mentions:
 
@@ -114,7 +114,7 @@ We expect that the NLP/CL community will heartily welcome more awesome new resea
 
 Our deepest thanks to all of the SRW champions over the years - all of the organizers, authors, and participants for bearing the torch!
 
-![](/assets/images/srw-blog/all_authors.png)
+![]({{ site.baseurl }}/assets/images/srw-blog/all_authors.png)
 
 *We want to thank all of the researchers who took the time to share their experiences with us for this blog post*.
 
